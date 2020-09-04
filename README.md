@@ -8,6 +8,8 @@ Analzyed top video comments from across 5 different YouTube channels which uploa
 
 ![image](https://user-images.githubusercontent.com/70302224/92273073-937ee880-ee9f-11ea-9346-645ed13ecd53.png =250x250)
 
+<img src="https://user-images.githubusercontent.com/70302224/92273073-937ee880-ee9f-11ea-9346-645ed13ecd53.png" width="250" height="250"/>
+
 Future work:
 * Currently building a tailored library since VADER library is not specific for YouTube comments
 * Use multiclassification algorithm 
