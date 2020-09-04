@@ -18,8 +18,8 @@ Future work:
   * https://geohub.lacity.org/
 * Analyzed SAT according to school LA county school districts
 
-<img src="https://user-images.githubusercontent.com/70302224/92281217-f8423f00-eeaf-11ea-99ad-4d6831dc3982.png" width="400" height="400"/>
-* The percent of students who met the benchmark of both Evidence-Based Reading & Writing (ERW) and Math.
+<img src="https://user-images.githubusercontent.com/70302224/92287975-2def2400-eec0-11ea-88b4-ee9bade99ca8.png" width="400" height="400"/>
+* The percent of students (total of 11th and 12th Graders) who met the benchmark of both Evidence-Based Reading & Writing (ERW) and Math.
 
 Future work:
 * Analyze SAT with respect to other economic and social variable (e.g. household income)
