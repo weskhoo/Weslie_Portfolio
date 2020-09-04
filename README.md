@@ -6,7 +6,7 @@ Analzyed top video comments from across 5 different YouTube channels which uploa
 * Scraped over 5000 comments using python and selenium
 * Interpreted sentiments from comments using VADER
 
-![image](https://user-images.githubusercontent.com/70302224/92273073-937ee880-ee9f-11ea-9346-645ed13ecd53.png){:height="200px" width="200px"}
+![image](https://user-images.githubusercontent.com/70302224/92273073-937ee880-ee9f-11ea-9346-645ed13ecd53.png =250x250)
 
 Future work:
 * Currently building a tailored library since VADER library is not specific for YouTube comments
