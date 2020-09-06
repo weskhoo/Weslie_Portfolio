@@ -6,7 +6,7 @@ Analzyed top video comments from across 5 different YouTube channels which uploa
 * Scraped over 5000 comments using python and selenium
 * Interpreted sentiments from comments using VADER
 
-<img src="https://user-images.githubusercontent.com/70302224/92273073-937ee880-ee9f-11ea-9346-645ed13ecd53.png" width="400" height="400"/>
+<img src="https://user-images.githubusercontent.com/70302224/92273073-937ee880-ee9f-11ea-9346-645ed13ecd53.png" width="450" height="400"/>
 
 Future work:
 * Currently building a tailored library because VADER library is not specific for YouTube comments
@@ -24,6 +24,15 @@ Future work:
 Future work:
 * Analyze SAT with respect to other economic and social variable (e.g. household income)
 
-# Project 3: SEO analysis to identity key words (work project)
+# Project 3: Secondary schools PSLE cut-off scores in Singapore
+* Created a dataset from different datasets pulled from various sources
+* Analyzed PSLE cut-off scores according to locations of Secondary Schools
+
+<img src="https://user-images.githubusercontent.com/70302224/92318789-20bc5d00-efc6-11ea-954e-6829c7251652.png" width="400" height="250"/>
+
+Future work:
+* Analyze PSLE scores with respect to other economic and social variable (e.g. household income), and access of public transportation.
+
+# Project 4: SEO analysis to identity key words (work project)
 * Analyzed SEO search terms 
 * Created a dashboard for easy visualization to guide SEO strategy
