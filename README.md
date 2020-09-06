@@ -28,7 +28,7 @@ Future work:
 * Created a dataset from different datasets pulled from various sources
 * Analyzed PSLE cut-off scores according to locations of Secondary Schools
 
-<img src="https://user-images.githubusercontent.com/70302224/92318789-20bc5d00-efc6-11ea-954e-6829c7251652.png" width="400" height="250"/>
+<img src="https://user-images.githubusercontent.com/70302224/92318927-dc31c100-efc7-11ea-8d58-ea6c26a7028e.png" width="400" height="250"/>
 
 Future work:
 * Analyze PSLE scores with respect to other economic and social variable (e.g. household income), and access of public transportation.
