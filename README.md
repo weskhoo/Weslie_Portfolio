@@ -36,3 +36,10 @@ Future work:
 # Project 4: SEO analysis to identity key words (work project)
 * Analyzed SEO search terms 
 * Created a dashboard for easy visualization to guide SEO strategy
+
+# Project 5: Sentiments on characters in upcoming game
+Analzyed top video comments from official YouTube channel which uploaded Gotham Knights game trailer (to be released in 2021)
+* Scraped top comments using python and selenium
+* Interpreted sentiments from comments using VADER
+
+<img src="https://user-images.githubusercontent.com/70302224/92352951-15cffe00-f094-11ea-9e25-a1846c2548ca.png" width="450" height="320"/>
