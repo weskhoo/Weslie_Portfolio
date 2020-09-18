@@ -27,6 +27,7 @@ Future work:
 # Project 3: Secondary schools PSLE cut-off scores in Singapore
 * Created a dataset from different datasets pulled from various sources
 * Analyzed PSLE cut-off scores according to locations of Secondary Schools
+* [Click here for dashboard (created in Tableau)](https://public.tableau.com/profile/weslie.khoo#!/vizhome/2022PSLE/Sheet1)
 
 <img src="https://user-images.githubusercontent.com/70302224/92318927-dc31c100-efc7-11ea-8d58-ea6c26a7028e.png" width="400" height="250"/>
 
