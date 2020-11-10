@@ -1,7 +1,7 @@
 # Weslie_Portfolio
 Examples of data science projects
 
-# Project 2: Understanding urban tree planting and social/economic status in Los Angeles County
+# Project 1: Understanding urban tree planting and social/economic status in Los Angeles County
 Please click here for the full project.
 * https://github.com/weskhoo/LA-urban-trees/blob/main/README.md
 
