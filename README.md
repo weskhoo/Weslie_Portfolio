@@ -2,8 +2,7 @@
 Examples of data science projects
 
 # Project 1: Understanding urban tree planting and social/economic status in Los Angeles County
-Please click here for the full project.
-* https://github.com/weskhoo/LA-urban-trees/blob/main/README.md
+[Please click here for the full project.](https://github.com/weskhoo/LA-urban-trees/blob/main/README.md)
 
 # Project 2: Understanding sentiments from comments on YouTube
 Analzyed top video comments from across 5 different YouTube channels which uploaded Matt Reeve's The Batman (2021) movie trailer.
@@ -38,11 +37,11 @@ Future work:
 Future work:
 * Analyze PSLE scores with respect to other economic and social variable (e.g. household income), and access of public transportation.
 
-# Project 4: SEO analysis to identity key words (work project)
+# Project 5: SEO analysis to identity key words (work project)
 * Analyzed SEO search terms 
 * Created a dashboard for easy visualization to guide SEO strategy
 
-# Project 5: Sentiments on characters in upcoming game
+# Project 6: Sentiments on characters in upcoming game
 Analzyed top video comments from official YouTube channel which uploaded Gotham Knights game trailer (to be released in 2021)
 * Scraped top comments using python and selenium
 * Interpreted sentiments from comments using VADER
