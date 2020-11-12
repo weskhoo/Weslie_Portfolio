@@ -9,7 +9,7 @@ Analzyed top video comments from across 5 different YouTube channels which uploa
 * Scraped over 5000 comments using python and selenium
 * Interpreted sentiments from comments using VADER
 
-<img src="https://user-images.githubusercontent.com/70302224/92273073-937ee880-ee9f-11ea-9346-645ed13ecd53.png" width="450" height="400"/>
+<img src="https://user-images.githubusercontent.com/70302224/92273073-937ee880-ee9f-11ea-9346-645ed13ecd53.png">
 
 Future work:
 * Currently building a tailored library because VADER library is not specific for YouTube comments
@@ -21,7 +21,7 @@ Future work:
   * https://geohub.lacity.org/
 * Analyzed SAT according to school LA county school districts
 
-<img src="https://user-images.githubusercontent.com/70302224/92287975-2def2400-eec0-11ea-88b4-ee9bade99ca8.png" width="400" height="400"/>
+<img src="https://user-images.githubusercontent.com/70302224/92287975-2def2400-eec0-11ea-88b4-ee9bade99ca8.png">
 * The percent of students (total of 11th and 12th Graders) who met the benchmark of both Evidence-Based Reading & Writing (ERW) and Math.
 
 Future work:
@@ -32,7 +32,7 @@ Future work:
 * Analyzed PSLE cut-off scores according to locations of Secondary Schools
 * [Click here for dashboard (created in Tableau)](https://public.tableau.com/profile/weslie.khoo#!/vizhome/2022PSLE/Sheet1)
 
-<img src="https://user-images.githubusercontent.com/70302224/92318927-dc31c100-efc7-11ea-8d58-ea6c26a7028e.png" width="400" height="250"/>
+<img src="https://user-images.githubusercontent.com/70302224/92318927-dc31c100-efc7-11ea-8d58-ea6c26a7028e.png">
 
 Future work:
 * Analyze PSLE scores with respect to other economic and social variable (e.g. household income), and access of public transportation.
@@ -46,4 +46,4 @@ Analzyed top video comments from official YouTube channel which uploaded Gotham 
 * Scraped top comments using python and selenium
 * Interpreted sentiments from comments using VADER
 
-<img src="https://user-images.githubusercontent.com/70302224/92352951-15cffe00-f094-11ea-9e25-a1846c2548ca.png" width="450" height="320"/>
+<img src="https://user-images.githubusercontent.com/70302224/92352951-15cffe00-f094-11ea-9e25-a1846c2548ca.png">
